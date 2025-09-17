@@ -11,7 +11,7 @@
         {
             "type": "resources",
             "uuid": "ced0fabd-88ea-460e-8ce9-8cc0fca33fc6",
-            "version": [1, 0, 0]
+            "version": [1, 5, 0]
         }
     ],
     "metadata": {
@@ -21,7 +21,7 @@
     "dependencies": [
         {
             "uuid": "8a4c9697-4587-413e-a2ad-bb09745bd263",
-            "version": [1, 0, 0]
+            "version": [1, 5, 0]
         }
     ]
 }
