@@ -41,17 +41,5 @@
                 0
             ]
         }
-    ],
-    "subpacks": [
-        {
-            "folder_name": "default_ui",
-            "name": "Default UI",
-            "memory_tier": 0
-        },
-        {
-            "folder_name": "dark_ui",
-            "name": "Dark UI",
-            "memory_tier": 0
-        }
     ]
 }
