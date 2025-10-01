@@ -35,7 +35,7 @@
             },
             // size
             "minecraft:particle_appearance_billboard": {
-                "size": [0.2, 0.2],
+                "size": [0.13, 0.13],
                 "facing_camera_mode": "rotate_xyz",
                 "uv": {
                     "texture_width": 80,
