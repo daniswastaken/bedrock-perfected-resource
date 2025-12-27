@@ -26,6 +26,7 @@
     },
     "root_panel": {
         "modifications": [
+            /*
             {
                 "array_name": "controls",
                 "operation": "insert_front",
@@ -35,6 +36,7 @@
                     }
                 ]
             }
+            */
         ]
     }
 }
