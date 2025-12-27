@@ -3,6 +3,7 @@
     "vignette_renderer": {
         "renderer": "flying_item_renderer"
     },
+    /*
     "hud_text": {
         "type": "label",
         "text": "Bedrock Perfected",
@@ -19,6 +20,7 @@
             -4 // y
         ]
     },
+    */
     "hud_title_text/title_frame/title_background": {
         "alpha": 0
     },
