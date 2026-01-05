@@ -1,0 +1,7 @@
+{
+    "ui_defs": [
+        "ui_bedrock_perfected/brewing_guide.ui",
+        "ui_bedrock_perfected/brewing_icons.ui",
+        "ui_bedrock_perfected/quick_crafting.ui"
+    ]
+}
