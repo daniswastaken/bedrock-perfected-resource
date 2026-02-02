@@ -1,13 +1,13 @@
 {
     "format_version": 2,
     "header": {
-        "name": "Bedrock Perfected 26.2",
+        "name": "Bedrock Perfected 26.2.1",
         "description": "Crafting recipe tweaks, new mechanics, and texture improvements designed to make Minecraft better.",
         "uuid": "021db127-35f8-4a5b-85b1-35ef06db0db2",
         "version": [
             26,
             2,
-            0
+            1
         ],
         "min_engine_version": [
             1,
@@ -22,7 +22,7 @@
             "version": [
                 26,
                 2,
-                0
+                1
             ]
         }
     ],
@@ -41,7 +41,7 @@
             "version": [
                 26,
                 2,
-                0
+                1
             ]
         }
     ]
