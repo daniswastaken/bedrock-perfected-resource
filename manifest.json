@@ -14,6 +14,18 @@
 			"version": [26, 2, 1]
 		}
 	],
+    "subpacks": [
+        {
+            "folder_name": "normal_ui",
+            "name": "Normal UI",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "dark_ui",
+            "name": "Dark UI",
+            "memory_tier": 0
+        }
+    ],
 	"capabilities": ["pbr"],
 	"metadata": {
 		"authors": ["daniswastaken"],
