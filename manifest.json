@@ -1,43 +1,65 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "Bedrock Perfected 26.2.1",
+		"name": "Bedrock Perfected 26.3",
 		"description": "Crafting recipe tweaks, new mechanics, and texture improvements designed to make Minecraft better.",
 		"uuid": "021db127-35f8-4a5b-85b1-35ef06db0db2",
-		"version": [26, 2, 1],
-		"min_engine_version": [1, 21, 130]
+		"version": [
+			26,
+			3,
+			0
+		],
+		"min_engine_version": [
+			1,
+			21,
+			130
+		]
 	},
 	"modules": [
 		{
 			"type": "resources",
 			"uuid": "ced0fabd-88ea-460e-8ce9-8cc0fca33fc6",
-			"version": [26, 2, 1]
+			"version": [
+				26,
+				3,
+				0
+			]
 		}
 	],
-    "subpacks": [
-        {
-            "folder_name": "normal_ui",
-            "name": "Normal UI",
-            "memory_tier": 0
-        },
-        {
-            "folder_name": "dark_ui",
-            "name": "Dark UI",
-            "memory_tier": 0
-        }
-    ],
-	"capabilities": ["pbr"],
+	"subpacks": [
+		{
+			"folder_name": "normal_ui",
+			"name": "Normal UI",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "dark_ui",
+			"name": "Dark UI",
+			"memory_tier": 0
+		}
+	],
+	"capabilities": [
+		"pbr"
+	],
 	"metadata": {
-		"authors": ["daniswastaken"],
+		"authors": [
+			"daniswastaken"
+		],
 		"product_type": "addon",
 		"generated_with": {
-			"blockbench_item_wizard": ["1.2.4"]
+			"blockbench_item_wizard": [
+				"1.2.4"
+			]
 		}
 	},
 	"dependencies": [
 		{
 			"uuid": "8a4c9697-4587-413e-a2ad-bb09745bd263",
-			"version": [26, 2, 1]
+			"version": [
+				26,
+				3,
+				0
+			]
 		}
 	]
 }
