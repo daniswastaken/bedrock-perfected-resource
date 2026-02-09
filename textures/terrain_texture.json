@@ -4,6 +4,72 @@
     "padding": 8,
     "num_mip_levels": 4,
     "texture_data": {
+        "kelp_top_bulb": {
+            "textures": [
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/kelp_top_bulb",
+                "textures/blocks/age_25_kelp"
+            ]
+        },
+        "kelp_top": {
+            "textures": [
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/kelp_top",
+                "textures/blocks/age_25_kelp"
+            ]
+        },
+        "piston_top_sticky": {
+            "textures": "textures/blocks/piston_top_sticky"
+        },
+        "piston_side_sticky": {
+            "textures": "textures/blocks/piston_side_sticky"
+        },
         "grass_side": {
             "textures": [
                 {
