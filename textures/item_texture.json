@@ -1,5 +1,8 @@
 {
 	"texture_data": {
+		"scroll_of_the_hearth": {
+			"textures": "textures/items/scroll_of_the_hearth.png"
+		},
 		"addon_configuration": {
 			"textures": "textures/items/addon_configuration.png"
 		}
