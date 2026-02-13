@@ -16,13 +16,13 @@
 	],
 	"subpacks": [
 		{
-			"folder_name": "normal_ui",
-			"name": "Normal UI",
+			"folder_name": "default_ui",
+			"name": "Default Theme",
 			"memory_tier": 0
 		},
 		{
 			"folder_name": "dark_ui",
-			"name": "Dark UI",
+			"name": "Dark Theme",
 			"memory_tier": 0
 		}
 	],
