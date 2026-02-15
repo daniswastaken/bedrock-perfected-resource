@@ -5,30 +5,48 @@
     },
     "hud_title_text": {
         "offset": [
-            "0%", // x
+            0, // x
             "-30%" // y
         ]
     },
-
     "hud_title_text/subtitle_frame/subtitle_background": {
         "alpha": 0
     },
     "hud_title_text/title_frame/title_background": {
         "alpha": 0
     },
-
     "hud_title_text/subtitle_frame/subtitle": {
+        "$anim_type": "default",
         "type": "label",
         "shadow": true,
-        "font_scale_factor": 0.6,
-        "offset": [
+        "$var_scale": 0.65,
+        "$var_offset": [
             0, // x
             -40 // y
-        ]
+        ],
+        "variables": [
+            {
+                "requires": "$pocket_edition",
+                "$var_scale": 0.5,
+                "$var_offset": [
+                    0, // x
+                    -30 // y
+                ]
+            }
+        ],
+        "font_scale_factor": "$var_scale",
+        "offset": "$var_offset"
     },
     "hud_title_text/title_frame/title": {
         "type": "label",
         "shadow": true,
-        "font_scale_factor": 0.6
+        "$var_scale": 0.65,
+        "variables": [
+            {
+                "requires": "$pocket_edition",
+                "$var_scale": 0.5
+            }
+        ],
+        "font_scale_factor": "$var_scale"
     }
 }
