@@ -5,7 +5,7 @@
 		"description": "Crafting recipe tweaks, new mechanics, and texture improvements designed to make Minecraft better.",
 		"uuid": "021db127-35f8-4a5b-85b1-35ef06db0db2",
 		"version": [26, 3, 0],
-		"min_engine_version": [1, 21, 130]
+		"min_engine_version": [1, 26, 0]
 	},
 	"modules": [
 		{
