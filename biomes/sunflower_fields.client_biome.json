@@ -1,0 +1,25 @@
+{
+    "format_version": "1.21.100",
+    "minecraft:client_biome": {
+        "description": {
+            "identifier": "bedrock_perfected:sunflower_fields"
+        },
+        "components": {
+            "minecraft:fog_appearance": {
+                "fog_identifier": "bedrock_perfected:sunflower_fields_fog"
+            },
+            "minecraft:water_appearance": {
+                "surface_color": "#44AFF5"
+            },
+            "minecraft:grass_appearance": {
+                "color": "#E6F55D"
+            },
+            "minecraft:foliage_appearance": {
+                "color": "#E6F55D"
+            },
+            "minecraft:sky_color": {
+                "sky_color": "#FFEB80"
+            }
+        }
+    }
+}
