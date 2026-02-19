@@ -1,0 +1,26 @@
+{
+    "format_version": "1.21.100",
+    "minecraft:client_biome": {
+        "description": {
+            "identifier": "bedrock_perfected:sierra"
+        },
+        "components": {
+            "minecraft:fog_appearance": {
+                "fog_identifier": "bedrock_perfected:sierra_fog"
+            },
+            "minecraft:sky_color": {
+                "sky_color": "#BFEFFF"
+            },
+            "minecraft:grass_appearance": {
+                "color": "#8B9B5A"
+            },
+            "minecraft:foliage_appearance": {
+                "color": "#6B7B3A"
+            },
+            "minecraft:water_appearance": {
+                "surface_color": "#00FBFF",
+                "surface_opacity": 0.7
+            }
+        }
+    }
+}
