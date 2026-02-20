@@ -1,0 +1,26 @@
+{
+    "format_version": "1.21.100",
+    "minecraft:client_biome": {
+        "description": {
+            "identifier": "bedrock_perfected:selena_basin"
+        },
+        "components": {
+            "minecraft:sky_color": {
+                "sky_color": "#3042b2"
+            },
+            "minecraft:fog_appearance": {
+                "fog_identifier": "bedrock_perfected:selena_basin_fog"
+            },
+            "minecraft:grass_appearance": {
+                "color": "#D3E3FF"
+            },
+            "minecraft:foliage_appearance": {
+                "color": "#C4D8F5"
+            },
+            "minecraft:water_appearance": {
+                "surface_color": "#6576f1",
+                "surface_opacity": 0.55
+            }
+        }
+    }
+}
