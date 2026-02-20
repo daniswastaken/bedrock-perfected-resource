@@ -1,0 +1,44 @@
+{
+    "format_version": "1.21.40",
+    "minecraft:fog_settings": {
+        "description": {
+            "identifier": "bedrock_perfected:selena_basin_fog"
+        },
+        "distance": {
+            "air": {
+                "fog_start": 15,
+                "fog_end": 120,
+                "fog_color": "#dbc6ff",
+                "render_distance_type": "fixed"
+            },
+            "weather": {
+                "fog_start": 0,
+                "fog_end": 40,
+                "fog_color": "#8C9EE6",
+                "render_distance_type": "fixed"
+            }
+        },
+        "volumetric": {
+            "density": {
+                "air": {
+                    "max_density": 0.1,
+                    "uniform": true
+                }
+            },
+            "media_coefficients": {
+                "air": {
+                    "scattering": [
+                        0.3,
+                        0.6,
+                        1.2
+                    ],
+                    "absorption": [
+                        0.05,
+                        0.02,
+                        0.005
+                    ]
+                }
+            }
+        }
+    }
+}
