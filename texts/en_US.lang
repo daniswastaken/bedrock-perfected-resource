@@ -7,3 +7,5 @@ bedrock_perfected.bg.effect.potion=Potion Effect
 item.bedrock_perfected:addon_configuration=Addon Configuration
 item.bedrock_perfected:scroll_of_the_hearth=Scroll of the Hearth
 biome.bedrock_perfected:sunflower_fields=Sunflower Fields
+tile.bedrock_perfected:selestone.name=Selestone
+tile.bedrock_perfected:selestone.name=Selestone
