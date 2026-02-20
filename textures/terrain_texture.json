@@ -4,6 +4,12 @@
 	"padding": 8,
 	"num_mip_levels": 4,
 	"texture_data": {
+		"selensoil": {
+			"textures": "textures/blocks/selensoil"
+		},
+		"grassena": {
+			"textures": "textures/blocks/grassena"
+		},
 		"selestone": {
 			"textures": "textures/blocks/selestone"
 		},
