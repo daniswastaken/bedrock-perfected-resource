@@ -4,6 +4,9 @@
 	"padding": 8,
 	"num_mip_levels": 4,
 	"texture_data": {
+		"lunafir_leaves": {
+			"textures": "textures/blocks/lunafir_leaves"
+		},
 		"lunant": {
 			"textures": "textures/blocks/lunant"
 		},
