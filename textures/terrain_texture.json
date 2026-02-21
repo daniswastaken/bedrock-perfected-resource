@@ -4,6 +4,9 @@
 	"padding": 8,
 	"num_mip_levels": 4,
 	"texture_data": {
+		"lunant": {
+			"textures": "textures/blocks/lunant"
+		},
 		"selensoil": {
 			"textures": "textures/blocks/selensoil"
 		},
