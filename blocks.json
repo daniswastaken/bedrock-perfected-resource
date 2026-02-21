@@ -1,5 +1,8 @@
 {
 	"format_version": "1.21.40",
+	"bedrock_perfected:lunant": {
+		"sound": "grass"
+	},
 	"bedrock_perfected:selensoil": {
 		"sound": "dirt_with_roots"
 	},
