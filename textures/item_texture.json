@@ -1,5 +1,8 @@
 {
 	"texture_data": {
+		"stone_pebble": {
+			"textures": "textures/items/stone_pebble.png"
+		},
 		"scroll_of_the_hearth": {
 			"textures": "textures/items/scroll_of_the_hearth.png"
 		},
