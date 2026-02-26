@@ -1,5 +1,8 @@
 {
 	"texture_data": {
+		"icy_pebble": {
+			"textures": "textures/items/icy_pebble.png"
+		},
 		"stone_pebble": {
 			"textures": "textures/items/stone_pebble.png"
 		},
