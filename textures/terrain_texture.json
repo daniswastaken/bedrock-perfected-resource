@@ -4,6 +4,9 @@
 	"padding": 8,
 	"num_mip_levels": 4,
 	"texture_data": {
+		"stone_pebble_1": {
+			"textures": "textures/blocks/stone_pebble_1"
+		},
 		"lunafir_log": {
 			"textures": "textures/blocks/lunafir_log"
 		},
