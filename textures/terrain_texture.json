@@ -19,8 +19,11 @@
 		"stone_pebble_1": {
 			"textures": "textures/blocks/stone_pebble_block"
 		},
-		"lunafir_log": {
-			"textures": "textures/blocks/lunafir_log"
+		"lunafir_log_top": {
+			"textures": "textures/blocks/lunafir_log_top"
+		},
+		"lunafir_log_side": {
+			"textures": "textures/blocks/lunafir_log_side"
 		},
 		"lunafir_leaves": {
 			"textures": "textures/blocks/lunafir_leaves"
