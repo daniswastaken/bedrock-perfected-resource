@@ -1,5 +1,20 @@
 {
 	"format_version": "1.21.40",
+	"bedrock_perfected:icy_pebble_5": {
+		"sound": "stone"
+	},
+	"bedrock_perfected:icy_pebble_4": {
+		"sound": "stone"
+	},
+	"bedrock_perfected:icy_pebble_3": {
+		"sound": "stone"
+	},
+	"bedrock_perfected:icy_pebble_2": {
+		"sound": "stone"
+	},
+	"bedrock_perfected:icy_pebble_1": {
+		"sound": "stone"
+	},
 	"bedrock_perfected:stone_pebble_5": {
 		"sound": "stone"
 	},

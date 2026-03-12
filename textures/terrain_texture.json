@@ -4,6 +4,21 @@
 	"padding": 8,
 	"num_mip_levels": 4,
 	"texture_data": {
+		"icy_pebble_5": {
+			"textures": "textures/blocks/icy_pebble_block"
+		},
+		"icy_pebble_4": {
+			"textures": "textures/blocks/icy_pebble_block"
+		},
+		"icy_pebble_3": {
+			"textures": "textures/blocks/icy_pebble_block"
+		},
+		"icy_pebble_2": {
+			"textures": "textures/blocks/icy_pebble_block"
+		},
+		"icy_pebble_1": {
+			"textures": "textures/blocks/icy_pebble_block"
+		},
 		"stone_pebble_5": {
 			"textures": "textures/blocks/stone_pebble_block"
 		},
