@@ -12,10 +12,10 @@
                 "fog_identifier": "bedrock_perfected:selena_basin_fog"
             },
             "minecraft:grass_appearance": {
-                "color": "#D3E3FF"
+                "color": "#a0a8ff"
             },
             "minecraft:foliage_appearance": {
-                "color": "#C4D8F5"
+                "color": "#adceff"
             },
             "minecraft:water_appearance": {
                 "surface_color": "#6576f1",

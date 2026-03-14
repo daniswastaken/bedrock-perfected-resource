@@ -4,6 +4,9 @@
 	"padding": 8,
 	"num_mip_levels": 4,
 	"texture_data": {
+		"selena_short_grass": {
+			"textures": "textures/blocks/short_selena_grass"
+		},
 		"icy_pebble_5": {
 			"textures": "textures/blocks/icy_pebble_block"
 		},
