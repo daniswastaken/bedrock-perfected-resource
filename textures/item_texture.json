@@ -1,19 +1,19 @@
 {
 	"texture_data": {
 		"mossy_pebble": {
-			"textures": "textures/items/mossy_pebble.png"
+			"textures": "textures/items/nature/mossy_pebble"
 		},
 		"icy_pebble": {
-			"textures": "textures/items/icy_pebble.png"
+			"textures": "textures/items/nature/icy_pebble"
 		},
 		"stone_pebble": {
-			"textures": "textures/items/stone_pebble.png"
+			"textures": "textures/items/nature/stone_pebble"
 		},
 		"scroll_of_the_hearth": {
-			"textures": "textures/items/scroll_of_the_hearth.png"
+			"textures": "textures/items/utility/scroll_of_the_hearth"
 		},
 		"addon_configuration": {
-			"textures": "textures/items/addon_configuration.png"
+			"textures": "textures/items/utility/addon_configuration"
 		}
 	},
 	"resource_pack_name": "vanilla",

@@ -5,58 +5,58 @@
 	"num_mip_levels": 4,
 	"texture_data": {
 		"selena_short_grass": {
-			"textures": "textures/blocks/short_selena_grass"
+			"textures": "textures/blocks/nature/short_selena_grass"
 		},
 		"icy_pebble_5": {
-			"textures": "textures/blocks/icy_pebble_block"
+			"textures": "textures/blocks/pebbles/icy_pebble_block"
 		},
 		"icy_pebble_4": {
-			"textures": "textures/blocks/icy_pebble_block"
+			"textures": "textures/blocks/pebbles/icy_pebble_block"
 		},
 		"icy_pebble_3": {
-			"textures": "textures/blocks/icy_pebble_block"
+			"textures": "textures/blocks/pebbles/icy_pebble_block"
 		},
 		"icy_pebble_2": {
-			"textures": "textures/blocks/icy_pebble_block"
+			"textures": "textures/blocks/pebbles/icy_pebble_block"
 		},
 		"icy_pebble_1": {
-			"textures": "textures/blocks/icy_pebble_block"
+			"textures": "textures/blocks/pebbles/icy_pebble_block"
 		},
 		"stone_pebble_5": {
-			"textures": "textures/blocks/stone_pebble_block"
+			"textures": "textures/blocks/pebbles/stone_pebble_block"
 		},
 		"stone_pebble_4": {
-			"textures": "textures/blocks/stone_pebble_block"
+			"textures": "textures/blocks/pebbles/stone_pebble_block"
 		},
 		"stone_pebble_3": {
-			"textures": "textures/blocks/stone_pebble_block"
+			"textures": "textures/blocks/pebbles/stone_pebble_block"
 		},
 		"stone_pebble_2": {
-			"textures": "textures/blocks/stone_pebble_block"
+			"textures": "textures/blocks/pebbles/stone_pebble_block"
 		},
 		"stone_pebble_1": {
-			"textures": "textures/blocks/stone_pebble_block"
+			"textures": "textures/blocks/pebbles/stone_pebble_block"
 		},
 		"lunafir_log_top": {
-			"textures": "textures/blocks/lunafir_log_top"
+			"textures": "textures/blocks/nature/lunafir_log_top"
 		},
 		"lunafir_log_side": {
-			"textures": "textures/blocks/lunafir_log_side"
+			"textures": "textures/blocks/nature/lunafir_log_side"
 		},
 		"lunafir_leaves": {
-			"textures": "textures/blocks/lunafir_leaves"
+			"textures": "textures/blocks/nature/lunafir_leaves"
 		},
 		"lunant": {
-			"textures": "textures/blocks/lunant"
+			"textures": "textures/blocks/nature/lunant"
 		},
 		"selensoil": {
-			"textures": "textures/blocks/selensoil"
+			"textures": "textures/blocks/nature/selensoil"
 		},
 		"grassena": {
-			"textures": "textures/blocks/grassena"
+			"textures": "textures/blocks/nature/grassena"
 		},
 		"selestone": {
-			"textures": "textures/blocks/selestone"
+			"textures": "textures/blocks/nature/selestone"
 		},
 		"kelp_top_bulb": {
 			"textures": [
