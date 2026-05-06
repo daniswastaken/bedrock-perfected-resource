@@ -1,0 +1,54 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.penguin.move": {
+			"initial_state": "idle_land",
+			"states": {
+				"idle_land": {
+					"animations": [
+						"look_at_target",
+						"idle"
+					],
+					"transitions": [
+						{
+							"walk_land": "query.modified_move_speed > 0.08"
+						},
+						{
+							"swim": "query.is_in_water"
+						}
+					],
+					"blend_transition": 0.2
+				},
+				"walk_land": {
+					"animations": [
+						"look_at_target",
+						"walk"
+					],
+					"transitions": [
+						{
+							"idle_land": "query.modified_move_speed <= 0.08"
+						},
+						{
+							"swim": "query.is_in_water"
+						}
+					],
+					"blend_transition": 0.2
+				},
+				"swim": {
+					"animations": [
+						"swim_cycle"
+					],
+					"transitions": [
+						{
+							"walk_land": "!query.is_in_water && query.modified_move_speed > 0.08"
+						},
+						{
+							"idle_land": "!query.is_in_water && query.modified_move_speed <= 0.08"
+						}
+					],
+					"blend_transition": 0.2
+				}
+			}
+		}
+	}
+}
