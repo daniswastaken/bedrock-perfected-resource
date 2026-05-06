@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "bedrock_perfected:penguin",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/penguin"
+			},
+			"geometry": {
+				"default": "geometry.penguin"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#839ed2",
+				"overlay_color": "#13377c"
+			}
+		}
+	}
+}
