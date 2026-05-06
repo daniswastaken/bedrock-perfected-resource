@@ -1,17 +1,17 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "Bedrock Perfected 26.5",
+		"name": "Bedrock Perfected 26.6",
 		"description": "Quality of life, new mechanics, new biomes and many more!",
 		"uuid": "021db127-35f8-4a5b-85b1-35ef06db0db2",
-		"version": [26, 5, 0],
-		"min_engine_version": [1, 26, 10]
+		"version": [26, 6, 0],
+		"min_engine_version": [1, 26, 20]
 	},
 	"modules": [
 		{
 			"type": "resources",
 			"uuid": "ced0fabd-88ea-460e-8ce9-8cc0fca33fc6",
-			"version": [26, 5, 0]
+			"version": [26, 6, 0]
 		}
 	],
 	"subpacks": [
@@ -32,13 +32,14 @@
 		"product_type": "addon",
 		"generated_with": {
 			"blockbench_item_wizard": ["1.2.4"],
-			"blockbench_block_wizard": ["1.6.1"]
+			"blockbench_block_wizard": ["1.6.1"],
+			"blockbench_entity_wizard": ["1.8.3"]
 		}
 	},
 	"dependencies": [
 		{
 			"uuid": "8a4c9697-4587-413e-a2ad-bb09745bd263",
-			"version": [26, 5, 0]
+			"version": [26, 6, 0]
 		}
 	]
 }
