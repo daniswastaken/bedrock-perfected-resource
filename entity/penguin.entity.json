@@ -12,6 +12,16 @@
 			"geometry": {
 				"default": "geometry.penguin"
 			},
+			"animations": {
+				"look_at_target": "animation.common.look_at_target",
+				"idle": "animation.penguin.idle",
+				"walk": "animation.penguin.walk",
+				"swim_cycle": "animation.penguin.swim",
+				"move": "controller.animation.penguin.move"
+			},
+			"scripts": {
+				"animate": ["move"]
+			},
 			"render_controllers": ["controller.render.default"],
 			"spawn_egg": {
 				"base_color": "#839ed2",
