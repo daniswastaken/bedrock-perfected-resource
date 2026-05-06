@@ -50,3 +50,5 @@ tile.bedrock_perfected:icy_pebble_5.name=Icy Pebble
 tile.bedrock_perfected:selena_short_grass.name=Selena Short Grass
 entity.bedrock_perfected:penguin.name=Penguin
 item.spawn_egg.entity.bedrock_perfected:penguin.name=Spawn Penguin
+entity.bedrock_perfected:penguin.name=Penguin
+item.spawn_egg.entity.bedrock_perfected:penguin.name=Spawn Penguin
